@@ -1,0 +1,39 @@
+body{
+    background-image: url("../assets/back.jpg");
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.test{
+    background-color: white;
+    padding: 50px 30px 50px;
+    margin-top: 40px;
+}
+
+.about{
+    text-align: left;
+}
+
+.img{
+    padding-left: 50px;
+}
+
+a:link, a:visited {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  a:link:active, a:visited:active {
+    color: white;
+  }
+
+  .furm{
+      background-color: white;
+      margin-top: 10%;
+      padding: 10px 0 10px 0;
+  }
+
+  .form-elem{
+      padding: 10px;
+  }
